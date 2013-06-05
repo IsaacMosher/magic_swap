@@ -1,0 +1,10 @@
+p {
+	font-size: 25px;
+	font-family: impact;
+	font-color:#fff666;
+}
+body {
+	background-image:url("dm.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
